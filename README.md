@@ -1,5 +1,8 @@
 # University Course Assignment System Optimization
 
+find report here:
+[CLICK HERE](Report/application_of_graph_report.pdf)
+
 ## Problem Statement
 
 The University Course Assignment System Optimization project addresses the challenge of optimizing course assignments for faculty members within a university department. The problem involves categorizing faculty members into distinct groups and assigning them courses based on their preferences and category-based constraints.It is a real world problem and shows how graphs can be used to tackle such real world problems.
