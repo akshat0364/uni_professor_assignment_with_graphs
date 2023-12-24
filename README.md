@@ -41,9 +41,9 @@ Refer to the project report for more details.
 
 ## Contributing
 made by:
-Akshat Goswami.
-Aditya Agarwal.
-Kshitij Vispute.
+Akshat Goswami,
+ Aditya Agarwal,
+ Kshitij Vispute.
 
 
 
