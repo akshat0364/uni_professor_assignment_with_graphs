@@ -1,5 +1,5 @@
 
-# DISCO-project
+# PROJECT
 CODE DEMONSTRATION:
 https://drive.google.com/file/d/19xD2PyVPYKGqFwHC1cOOciLCjReVfcn3/view?usp=sharing
 
