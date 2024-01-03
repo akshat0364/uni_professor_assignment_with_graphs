@@ -39,7 +39,7 @@ Refer to the project report for more details.
 
 
 
-## Contributing
+## Credits
 made by:
 Akshat Goswami,
  Aditya Agarwal,
