@@ -1,7 +1,6 @@
 # University Course Assignment System Optimization
 
-find report here:
-[CLICK HERE](Report/application_of_graph_report.pdf)
+Find report [here](Report/application_of_graph_report.pdf).
 
 ## Problem Statement
 
