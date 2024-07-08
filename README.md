@@ -24,7 +24,7 @@ The problem allows for potential modifications and extensions, such as adjusting
 
 ## Usage
 To get output files run Main.cpp .
-Separate output folder might not be created depending on the platform where the code is run.
+Supported Platforms - Windows.
 
 ## Algorithms and Implementation
 
